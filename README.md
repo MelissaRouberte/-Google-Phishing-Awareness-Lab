@@ -1,4 +1,4 @@
-# -Google-Phishing-Awareness-Lab
+
 # 🔐 Google Phishing Awareness Lab
 
 **Cybersecurity | Kali Linux | Ethical Hacking | Security Awareness**
